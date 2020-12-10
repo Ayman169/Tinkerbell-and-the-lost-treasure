@@ -1,2 +1,2 @@
 # Tinkerbell-and-the-lost-treasure
-Help Tink collet the treasure from space
+Help Tink collect the treasure from space
